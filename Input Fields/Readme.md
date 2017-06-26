@@ -41,6 +41,7 @@ Text inputs require direct user input in alphanumeric format. Use a text input w
 	</div>
 </form>
 ```
+![alt text](../images/input-text.png "Text Inputs")
 
 ## Plain Selection
 Selections provide the user with a dropdown list of options.
@@ -72,6 +73,7 @@ Selections provide the user with a dropdown list of options.
 	</div>
 </form>
 ```
+![alt text](../images/input-select.png "Select Inputs")
 
 ## Segmented Controls
 Segmented controls combine text inputs and selections, allowing the user to manually enter text or select from a list of options. A selected option replaces manually entered text. If partially entered text matches a selectable option, display available suggestions.
@@ -110,6 +112,9 @@ Segmented controls combine text inputs and selections, allowing the user to manu
 	</div>
 </form>
 ```
+![alt text](../images/input-segmented.png "Segmented Inputs")
 
 ## Boolean Controls
 Boolean controls can appear as checkboxes or switches. Refer to [Choice Toggles]() to determine the appropriate control depending on the desired input.
+
+![alt text](../images/input-checkboxes.png "Checkbox Inputs")

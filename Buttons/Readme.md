@@ -95,7 +95,7 @@ Icon buttons can be styled with or without borders.
 ---
 ## Use Guidelines
 
-### Alternately display primary and default actions with an icon and text label. Button elements without outlines or borders generally include this combined use.
+Alternately display primary and default actions with an icon and text label. Button elements without outlines or borders generally include this combined use.
 
-### Align text labels in the horizontal center of the accompanying icon. When including items in a list, check that text labels and icons are appropriately aligned.
+Align text labels in the horizontal center of the accompanying icon. When including items in a list, check that text labels and icons are appropriately aligned.
 

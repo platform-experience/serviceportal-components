@@ -14,6 +14,8 @@ Use checkboxes when presenting the user with a list of one or more options. Chec
 	</span>
 </div>
 ```
+![alt text](../images/checkboxes.png "Checkboxes")
+
 ## Radio Buttons
 Use radio buttons when presenting the user with a list of two or more options, but only one possible selection. Clicking an unselected radio button will deselect any previously selected button. Radio buttons allow the user to select only one option from a list of two or more options.
 ```HTML
@@ -24,6 +26,8 @@ Use radio buttons when presenting the user with a list of two or more options, b
 	</span> 
 </div>
 ```
+![alt text](../images/radio.png "Radio")
+
 ## Switches
 Use switches for a single option that the user can toggle on or off. Switches can turn child features in a hierarchy on or off.  Switches allow the user to toggle an option on or off. Use switches to represent boolean options, such as on/off and show/hide.
 ```HTML
@@ -34,7 +38,7 @@ Use switches for a single option that the user can toggle on or off. Switches ca
 	</div>
 </div>
 ```
-
+![alt text](../images/toggle.png "Switches")
 ---
 ## Use Guidelines
 
@@ -65,7 +69,3 @@ Some recommended usage guidelines:
 * Left-align labels to the left of the control. This improves scannability in longer lists.
 * In boolean cases, allow the user to click either the control or the respective label to toggle the option on/off.
 
----
-## Dependencies
-
-> None
