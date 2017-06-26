@@ -1,4 +1,4 @@
-# Choice Toggles (Checkboxes, Radio buttons, Switches)
+# Choice/Toggle Components (Checkboxes, Radio buttons, Switches)
 
 ## Description
 

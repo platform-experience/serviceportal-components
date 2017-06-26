@@ -1,4 +1,4 @@
-# Buttons
+# Button Components
 
 ## Description
 
