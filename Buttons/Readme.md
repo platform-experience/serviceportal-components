@@ -5,6 +5,7 @@
 Buttons allow the user to select actions and interact with the platform. Use button styles consistently to help the user predict and understand available actions within a flow.
 
 <p><br/><br/><br/><br/><br/></p>
+
 ---
 ## Default buttons indicate secondary actions to the user. Default button actions are subordinate to any primary button actions within the view.
 
@@ -20,6 +21,7 @@ Buttons allow the user to select actions and interact with the platform. Use but
 ![alt text](../images/btn-active.png "Button Active")
 
 <p><br/><br/><br/><br/><br/></p>
+
 ---
 ## Buttons that can indicate positive, forward-moving actions such as Next and Save.
 ### Button Primary
@@ -39,6 +41,7 @@ Buttons allow the user to select actions and interact with the platform. Use but
 ![alt text](../images/btn-success-subdued.png "Button Success Subdued")
 
 <p><br/><br/><br/><br/><br/></p>
+
 ---
 ## Buttons that can indicate negative, or destructive actions such as Remove and Delete.
 ### Button Destructive
@@ -58,6 +61,7 @@ Buttons allow the user to select actions and interact with the platform. Use but
 ![alt text](../images/btn-warning.png "Button Warning")
 
 <p><br/><br/><br/><br/><br/></p>
+
 ---
 ## Icon buttons with commonly-used, recognizable icons. Include a tooltip on hover to describe the icon button’s action.
 
@@ -84,6 +88,7 @@ Icon buttons can be styled with or without borders.
 ![alt text](../images/btn-icon-noborder.png "Button Icon without Border")
 
 <p><br/><br/><br/><br/><br/></p>
+
 ---
 ### Widget Button
 ```HTML

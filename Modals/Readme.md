@@ -16,6 +16,7 @@ Dialogs
 Dialogs are a type of modal used to confirm information from the user, notify the user of progress or change, or request input.
 
 <p><br/><br/><br/><br/><br/></p>
+
 ---
 ## Confirmation Dialogs
 ![alt text](../images/Confirmation.png "Confirmation Dialog")
@@ -44,6 +45,7 @@ Confirmation dialogs require the user to explicitly accept or reject an action b
 ```
 
 <p><br/><br/><br/><br/><br/></p>
+
 ---
 ## Information Dialogs
 ![alt text](../images/Informative.png "Informative Dialog")
@@ -70,6 +72,7 @@ Information dialogs notify a user of important information. Use information dial
 ```
 
 <p><br/><br/><br/><br/><br/></p>
+
 ---
 ## Destructive Dialogs
 ![alt text](../images/Destructive.png "Destructive Dialog")
@@ -97,6 +100,7 @@ Destructive dialogs notify the user of a destructive choice.  Use destructive di
 ```
 
 <p><br/><br/><br/><br/><br/></p>
+
 ---
 ## Option Modal
 ![alt text](../images/Option.png "Option Dialog")
@@ -160,6 +164,7 @@ Option dialogs prompt the user for information through input fields, drop downs,
 ```
 
 <p><br/><br/><br/><br/><br/></p>
+
 ---
 ## Custom Modal
 ![alt text](../images/Custom-Modal.png "Custom Modal Dialog")
