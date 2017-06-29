@@ -15,12 +15,14 @@ The following section describes the different types of modals and their respecti
 Dialogs
 Dialogs are a type of modal used to confirm information from the user, notify the user of progress or change, or request input.
 
+<p><br/><br/><br/></p>
 
 ---
 ## Confirmation Dialogs
 ![alt text](../images/Confirmation.png "Confirmation Dialog")
 
 Confirmation dialogs require the user to explicitly accept or reject an action before continuing. Use confirmation dialogs to confirm a user’s intention.
+
 ```HTML
 <div class="modal-example">
 	<div class="modal">
@@ -42,7 +44,7 @@ Confirmation dialogs require the user to explicitly accept or reject an action b
 </div>
 ```
 
-
+<p><br/><br/><br/></p>
 
 ---
 ## Information Dialogs
@@ -69,7 +71,7 @@ Information dialogs notify a user of important information. Use information dial
 </div>
 ```
 
-
+<p><br/><br/><br/></p>
 
 ---
 ## Destructive Dialogs
@@ -97,7 +99,7 @@ Destructive dialogs notify the user of a destructive choice.  Use destructive di
 </div>
 ```
 
-
+<p><br/><br/><br/></p>
 
 ---
 ## Option Modal
@@ -161,15 +163,14 @@ Option dialogs prompt the user for information through input fields, drop downs,
 </div>
 ```
 
-
-
-
+<p><br/><br/><br/></p>
 
 ---
 ## Custom Modal
 ![alt text](../images/Custom-Modal.png "Custom Modal Dialog")
 
 Custom dialogs can include interactive and non-interactive components that indicate progress, load actions, and updates. Custom dialogs are temporary and close automatically once the action completes. Use custom dialogs to display temporary information to the user.
+
 ```HTML
 <div class="modal-example">
 	<div class="modal">
