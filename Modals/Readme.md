@@ -15,7 +15,9 @@ The following section describes the different types of modals and their respecti
 Dialogs
 Dialogs are a type of modal used to confirm information from the user, notify the user of progress or change, or request input.
 
-### Confirmation Dialogs
+
+---
+## Confirmation Dialogs
 ![alt text](../images/Confirmation.png "Confirmation Dialog")
 
 Confirmation dialogs require the user to explicitly accept or reject an action before continuing. Use confirmation dialogs to confirm a user’s intention.
@@ -39,7 +41,11 @@ Confirmation dialogs require the user to explicitly accept or reject an action b
 	</div>
 </div>
 ```
-### Information Dialogs
+
+
+
+---
+## Information Dialogs
 ![alt text](../images/Informative.png "Informative Dialog")
 
 Information dialogs notify a user of important information. Use information dialogs to deliver important information that the user must confirm to proceed.
@@ -63,7 +69,10 @@ Information dialogs notify a user of important information. Use information dial
 </div>
 ```
 
-### Destructive Dialogs
+
+
+---
+## Destructive Dialogs
 ![alt text](../images/Destructive.png "Destructive Dialog")
 
 Destructive dialogs notify the user of a destructive choice.  Use destructive dialogs to confirm a user’s destructive intention.
@@ -88,7 +97,10 @@ Destructive dialogs notify the user of a destructive choice.  Use destructive di
 </div>
 ```
 
-### Option Modal
+
+
+---
+## Option Modal
 ![alt text](../images/Option.png "Option Dialog")
 
 Option dialogs prompt the user for information through input fields, drop downs, radio buttons, switches, checkboxes, and other form elements. Option dialogs include responsive fields that check validity and save user input. Use option dialogs to collect required information from the user.
@@ -149,7 +161,12 @@ Option dialogs prompt the user for information through input fields, drop downs,
 </div>
 ```
 
-### Custom Modal
+
+
+
+
+---
+## Custom Modal
 ![alt text](../images/Custom-Modal.png "Custom Modal Dialog")
 
 Custom dialogs can include interactive and non-interactive components that indicate progress, load actions, and updates. Custom dialogs are temporary and close automatically once the action completes. Use custom dialogs to display temporary information to the user.
