@@ -1,11 +1,11 @@
-# Button Components
+# Button
 
-## Description
+## Description and Usage
 
-Buttons allow the user to select actions and interact with the platform. Use button styles consistently to help the user predict and understand available actions within a flow.
+Buttons provide a clickable element that allow the user to select actions and interact with the platform. 
+Button classes can be applied on an `<a>`, `<button>`, or `<input>` element.
 
-<p><br/><br/><br/><br/><br/></p>
-
+<!--Section::Break-->
 ---
 ## Default buttons indicate secondary actions to the user. Default button actions are subordinate to any primary button actions within the view.
 
@@ -20,8 +20,7 @@ Buttons allow the user to select actions and interact with the platform. Use but
 ```
 ![alt text](../images/btn-active.png "Button Active")
 
-<p><br/><br/><br/><br/><br/></p>
-
+<!--Section::Break-->
 ---
 ## Buttons that can indicate positive, forward-moving actions such as Next and Save.
 ### Button Primary
@@ -40,8 +39,7 @@ Buttons allow the user to select actions and interact with the platform. Use but
 ```
 ![alt text](../images/btn-success-subdued.png "Button Success Subdued")
 
-<p><br/><br/><br/><br/><br/></p>
-
+<!--Section::Break-->
 ---
 ## Buttons that can indicate negative, or destructive actions such as Remove and Delete.
 ### Button Destructive
@@ -60,8 +58,7 @@ Buttons allow the user to select actions and interact with the platform. Use but
 ```
 ![alt text](../images/btn-warning.png "Button Warning")
 
-<p><br/><br/><br/><br/><br/></p>
-
+<!--Section::Break-->
 ---
 ## Icon buttons with commonly-used, recognizable icons. Include a tooltip on hover to describe the icon button’s action.
 
@@ -87,11 +84,10 @@ Icon buttons can be styled with or without borders.
 ```
 ![alt text](../images/btn-icon-noborder.png "Button Icon without Border")
 
-<p><br/><br/><br/><br/><br/></p>
-
+<!--Section::Break-->
 ---
 ### Widget Button
-```HTML
+``` HTML
 <div class="sn-widget sn-widget-button sn-widget-button_row">
 	<button class="btn btn-default icon">
 		<span class="icon-add-circle-empty"></span>
@@ -99,6 +95,7 @@ Icon buttons can be styled with or without borders.
 	</button>
 </div>
 ```
+
 ![alt text](../images/btn-widget.png "Button Widget")
 
 #### Use Guidelines
