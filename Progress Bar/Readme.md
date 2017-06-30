@@ -4,10 +4,10 @@
 
 Provide up-to-date feedback on the progress of a workflow or action with simple yet flexible progress bars.
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Basic example
+---
 Default progress bar.
 
 ![alt text](../images/progress-bar.png "Progress Bar")
@@ -19,10 +19,10 @@ Default progress bar.
 </div>
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
+## Basic with label
 ---
-## With label
 Remove the `<span>` with `.sr-only` class from within the progress bar to show a visible percentage.
 
 ![alt text](../images/progress-bar-label.png "Progress Bar")
@@ -51,10 +51,10 @@ To ensure that the label text remains legible even for low percentages, consider
 </div>
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Contextual alternatives
+---
 Progress bars use some of the same button and alert classes for consistent styles.
 
 ![alt text](../images/progress-bar-contexual.png "Progress Bar")
@@ -82,10 +82,10 @@ Progress bars use some of the same button and alert classes for consistent style
 </div>
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Striped
+---
 Uses a gradient to create a striped effect. Not available in IE9 and below.
 
 ![alt text](../images/progress-bar-striped.png "Progress Bar")
@@ -113,10 +113,10 @@ Uses a gradient to create a striped effect. Not available in IE9 and below.
 </div>
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Animated
+---
 Add .active to .progress-bar-striped to animate the stripes right to left. Not available in IE9 and below.
 
 ![alt text](../images/progress-bar-animated.png "Progress Bar")
@@ -129,10 +129,10 @@ Add .active to .progress-bar-striped to animate the stripes right to left. Not a
 </div>
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Stacked
+---
 Place multiple bars into the same .progress to stack them.
 
 ![alt text](../images/progress-bar-stacked.png "Progress Bar")

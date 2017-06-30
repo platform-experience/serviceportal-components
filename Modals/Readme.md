@@ -14,11 +14,10 @@ Use modals to:
 * Make selections from outside data sources without leaving the current view.
 * Display progress of the user’s actions.
 
+<p><br/><br/><br/><br/></p>
 
-<p><br/><br/><br/><br/><br/></p>
-
----
 ## Confirmation Dialogs
+---
 Confirmation dialogs require the user to explicitly accept or reject an action before continuing. Use confirmation dialogs to confirm a user’s intention.
 
 ![alt text](../images/Confirmation.png "Confirmation Dialog")
@@ -43,10 +42,10 @@ Confirmation dialogs require the user to explicitly accept or reject an action b
 </div>
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Information Dialogs
+---
 Information dialogs notify a user of important information. Use information dialogs to deliver important information that the user must confirm to proceed.
 
 ![alt text](../images/Informative.png "Informative Dialog")
@@ -70,10 +69,10 @@ Information dialogs notify a user of important information. Use information dial
 </div>
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Destructive Dialogs
+---
 Destructive dialogs notify the user of a destructive choice.  Use destructive dialogs to confirm a user’s destructive intention.
 
 ![alt text](../images/Destructive.png "Destructive Dialog")
@@ -98,10 +97,10 @@ Destructive dialogs notify the user of a destructive choice.  Use destructive di
 </div>
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Option Modal
+---
 Option dialogs prompt the user for information through input fields, drop downs, radio buttons, switches, checkboxes, and other form elements. Option dialogs include responsive fields that check validity and save user input. Use option dialogs to collect required information from the user.
 
 ![alt text](../images/Option.png "Option Dialog")
@@ -163,10 +162,10 @@ Option dialogs prompt the user for information through input fields, drop downs,
 </div>
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Custom Modal
+---
 Custom dialogs can include interactive and non-interactive components that indicate progress, load actions, and updates. Custom dialogs are temporary and close automatically once the action completes. Use custom dialogs to display temporary information to the user.
 
 ![alt text](../images/Custom-Modal.png "Custom Modal Dialog")

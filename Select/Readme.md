@@ -10,11 +10,10 @@ There are two types of select elements:
 * Select
 * Select with Search
 
+<p><br/><br/><br/><br/></p>
 
-<p><br/><br/><br/><br/><br/></p>
-
----
 ## Select
+---
 Select works for relatively small lists of options that the user can easily scroll and look through.
 
 ![alt text](../images/select.png "Select")
@@ -83,10 +82,11 @@ Select works for relatively small lists of options that the user can easily scro
   <div class="col-sm-12 col-md-2 form-field-addons"></div>
 </div>
 ```
-<p><br/><br/><br/><br/><br/></p>
 
----
+<p><br/><br/><br/><br/></p>
+
 ## Select with Search
+---
 Select with search allows users to quickly browse a long list of choices.
 
 ![alt text](../images/select-search.png "Select with Search")

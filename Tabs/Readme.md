@@ -4,11 +4,10 @@
 
 Use tabs to split content into smaller sections for focus and clarity.
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Basic
-
+---
 Use basic tabs to separate large portions of content. 
 
 Each tab should include a unifying trait, even if the content is logically unrelated.
@@ -35,11 +34,10 @@ Each tab should include a unifying trait, even if the content is logically unrel
 </div
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Light
-
+---
 Light tabs are meant to be used as nested tabs or applied as a more subtle version of tabs where appropriate.
 
 ![alt text](../images/tab-light.png "Tab Basic")
@@ -53,12 +51,10 @@ Light tabs are meant to be used as nested tabs or applied as a more subtle versi
 </div>
 ```
 
+<p><br/><br/><br/><br/></p>
 
-<p><br/><br/><br/><br/><br/></p>
-
----
 ## Guided
-
+---
 Guided tabs are specialized versions of light tabs and indicate a sequential relationship between the content presented. 
 
 In guided tabs, the user is led through the content, with the first tab displayed before any successive tab.
@@ -78,11 +74,10 @@ In guided tabs, the user is led through the content, with the first tab displaye
 </ol>
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Segmented
-
+---
 Use segmented controls as an alternative to light tabs. 
 
 Segmented controls filter content into categories and display a group of options based on user selection.

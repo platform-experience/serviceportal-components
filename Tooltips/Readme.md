@@ -8,13 +8,12 @@ A tooltip can appear when you hover over an item that needs explanation after a 
 
 By default, tooltips open above the referenced element (with the tooltip arrow pointing down). However, if sufficient space is not available in the viewport, the tooltip will open below the element (with the tooltip arrow pointing up).
 
-
 **Note** Don’t overuse tooltips. Most functions of an application should be easy to understand by default.
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ## Tooltip
+---
 ![alt text](../images/tooltip.png "Tooltip")
 
 ```HTML
@@ -24,10 +23,10 @@ By default, tooltips open above the referenced element (with the tooltip arrow p
 </div>
 ```
 
-<p><br/><br/><br/><br/><br/></p>
+<p><br/><br/><br/><br/></p>
 
----
 ##  Form Tooltip
+---
 Use a tooltip to provide a clear description of the associated form field.
 
 ![alt text](../images/tooltip-form.png "Tooltip Form")
