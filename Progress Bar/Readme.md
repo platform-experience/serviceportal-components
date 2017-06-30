@@ -149,3 +149,6 @@ Place multiple bars into the same .progress to stack them.
     <span class="sr-only">10% Complete (danger)</span>
   </div>
 </div>
+```
+
+<p><br/><br/><br/><br/><br/></p>

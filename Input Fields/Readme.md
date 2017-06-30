@@ -17,13 +17,15 @@ Four field types:
 * Text Inputs
 * Selections ( Drop-downs )
 * Segmented Controls
-* Boolean Controls ( [Choice Toggles]() )
+* Boolean Controls ( See 'Choice Toggles' for more info )
 
 <p><br/><br/><br/><br/><br/></p>
 
 ---
 ## Text Inputs
 Text inputs require direct user input in alphanumeric format. 
+
+![alt text](../images/input-text.png "Text Inputs")
 
 ```HTML
 <form class="form-horizontal">
@@ -45,13 +47,14 @@ Text inputs require direct user input in alphanumeric format.
   </div>
 </form>
 ```
-![alt text](../images/input-text.png "Text Inputs")
 
 <p><br/><br/><br/><br/><br/></p>
 
 ---
 ## Plain Selection
 Selections provide the user with a dropdown list of options.
+
+![alt text](../images/input-select.png "Select Inputs")
 
 ```HTML
 <form class="form-horizontal">
@@ -80,13 +83,14 @@ Selections provide the user with a dropdown list of options.
   </div>
 </form>
 ```
-![alt text](../images/input-select.png "Select Inputs")
 
 <p><br/><br/><br/><br/><br/></p>
 
 ---
 ## Segmented Controls
 Segmented controls combine text inputs and selections, allowing the user to manually enter text or select from a list of options. A selected option replaces manually entered text. If partially entered text matches a selectable option, display available suggestions.
+
+![alt text](../images/input-segmented.png "Segmented Inputs")
 
 ```HTML
 <form class="form-horizontal">
@@ -122,12 +126,11 @@ Segmented controls combine text inputs and selections, allowing the user to manu
   </div>
 </form>
 ```
-![alt text](../images/input-segmented.png "Segmented Inputs")
 
 <p><br/><br/><br/><br/><br/></p>
 
 ---
 ## Boolean Controls
-Boolean controls can appear as checkboxes or switches. Refer to [Choice Toggles]() to determine the appropriate control depending on the desired input.
+Boolean controls can appear as checkboxes or switches. Refer to 'Choice Toggles' to determine the appropriate control depending on the desired input.
 
 ![alt text](../images/input-checkboxes.png "Checkbox Inputs")

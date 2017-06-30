@@ -70,3 +70,5 @@ Use switches for a single option that the user can toggle on or off. Switches ca
 * Use a switch to display a parent option that toggles on/off all child options in one click.
   * To indicate parent/child relationships, indent child labels.
   * When the parent switch is toggled off, collapse child options.
+
+<p><br/><br/><br/><br/><br/></p>

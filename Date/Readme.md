@@ -42,3 +42,5 @@ Use a combined picker if the following input is required:
 
 ![alt text](../images/combined-picker.png "Combined Picker")
 ![alt text](../images/combined-picker-2.png "Combined Picker")
+
+<p><br/><br/><br/><br/><br/></p>
