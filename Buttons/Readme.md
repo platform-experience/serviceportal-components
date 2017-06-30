@@ -5,7 +5,8 @@
 Buttons provide a clickable element that allow the user to select actions and interact with the platform. 
 Button classes can be applied on an `<a>`, `<button>`, or `<input>` element.
 
-<!--Section::Break-->
+[<!--Section::Break-->](Default_Button)
+
 ---
 ## Default buttons indicate secondary actions to the user. Default button actions are subordinate to any primary button actions within the view.
 
