@@ -7,3 +7,4 @@ This component ...
 ## Images
 ![alt text](../images/.png "")
 
+<!-- Section::Break -->
