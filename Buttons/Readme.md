@@ -5,8 +5,8 @@
 Buttons provide a clickable element that allow the user to select actions and interact with the platform. 
 Button classes can be applied on an `<a>`, `<button>`, or `<input>` element.
 
-<wbr class='verticalSpace'/>
-<wbr class='anchor' tag='Default Buttons'/>
+<p class='sp::verticalSpace' />
+<p class='sp::anchor' tag='Default Buttons'/>
 
 ---
 ## Default buttons indicate secondary actions to the user. Default button actions are subordinate to any primary button actions within the view.
