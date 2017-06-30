@@ -1,4 +1,4 @@
-# Select (Drop-down) Components
+# Select (Drop-down)
 
 ## Description
 
