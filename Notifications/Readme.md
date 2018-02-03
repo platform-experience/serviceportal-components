@@ -12,7 +12,7 @@ There are typically four types of notifications, and they are distinguished by c
 <p><br/><br/><br/><br/></p>
 
 ## Informational
----
+<a id="informational"></a>
 Inform users about neutral events (blue).
 
 ![alt text](../images/notification-info.png "Notification Info")
@@ -24,7 +24,7 @@ Inform users about neutral events (blue).
 <p><br/><br/><br/><br/></p>
 
 ## Positive
----
+<a id="positive"></a>
 Inform users about success events (green).
 
 ![alt text](../images/notification-success.png "Notification Success")
@@ -35,8 +35,8 @@ Inform users about success events (green).
 
 <p><br/><br/><br/><br/></p>
 
-## Warning 
----
+## Warning
+<a id="warning"></a>
 Inform users about potentially negative events (yellow).
 
 ![alt text](../images/notification-warning.png "Notification Warning")
@@ -48,7 +48,7 @@ Inform users about potentially negative events (yellow).
 <p><br/><br/><br/><br/></p>
 
 ## Error
----
+<a id="error"></a>
 Inform users about failure events (red).
 
 ![alt text](../images/notification-error.png "Notification Error")

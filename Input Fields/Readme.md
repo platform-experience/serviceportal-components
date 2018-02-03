@@ -22,8 +22,8 @@ Four field types:
 <p><br/><br/><br/><br/></p>
 
 ## Text Inputs
----
-Text inputs require direct user input in alphanumeric format. 
+<a id="text-inputs"></a>
+Text inputs require direct user input in alphanumeric format.
 
 ![alt text](../images/input-text.png "Text Inputs")
 
@@ -51,7 +51,7 @@ Text inputs require direct user input in alphanumeric format.
 <p><br/><br/><br/><br/></p>
 
 ## Plain Selection
----
+<a id="plain-selection"></a>
 Selections provide the user with a dropdown list of options.
 
 ![alt text](../images/input-select.png "Select Inputs")
@@ -87,7 +87,7 @@ Selections provide the user with a dropdown list of options.
 <p><br/><br/><br/><br/></p>
 
 ## Segmented Controls
----
+<a id="segmented-controls"></a>
 Segmented controls combine text inputs and selections, allowing the user to manually enter text or select from a list of options. A selected option replaces manually entered text. If partially entered text matches a selectable option, display available suggestions.
 
 ![alt text](../images/input-segmented.png "Segmented Inputs")
@@ -130,7 +130,7 @@ Segmented controls combine text inputs and selections, allowing the user to manu
 <p><br/><br/><br/><br/></p>
 
 ## Boolean Controls
----
+<a id="boolean-controls"></a>
 Boolean controls can appear as checkboxes or switches. Refer to 'Choice Toggles' to determine the appropriate control depending on the desired input.
 
 ![alt text](../images/input-checkboxes.png "Checkbox Inputs")

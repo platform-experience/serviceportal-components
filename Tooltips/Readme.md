@@ -13,7 +13,7 @@ By default, tooltips open above the referenced element (with the tooltip arrow p
 <p><br/><br/><br/><br/></p>
 
 ## Tooltip
----
+<a id="tooltip"></a>
 ![alt text](../images/tooltip.png "Tooltip")
 
 ```HTML
@@ -25,8 +25,8 @@ By default, tooltips open above the referenced element (with the tooltip arrow p
 
 <p><br/><br/><br/><br/></p>
 
-##  Form Tooltip
----
+## Form Tooltip
+<a id="form-tooltip"></a>
 Use a tooltip to provide a clear description of the associated form field.
 
 ![alt text](../images/tooltip-form.png "Tooltip Form")

@@ -2,13 +2,13 @@
 
 ## Description
 
-Buttons provide a clickable element that allow the user to select actions and interact with the platform. 
+Buttons provide a clickable element that allow the user to select actions and interact with the platform.
 <!-- Button classes can be applied on an `<a>`, `<button>`, or `<input>` element.-->
 
 <p><br/><br/><br/><br/></p>
 
 ## Button Default
----
+<a id="button-default"></a>
 Default buttons indicate secondary actions to the user. Default button actions are subordinate to any primary button actions within the view.
 
 ![alt text](../images/btn-default.png "Button Default")
@@ -17,7 +17,6 @@ Default buttons indicate secondary actions to the user. Default button actions a
 ```
 
 #### Active/Selected
----
 ![alt text](../images/btn-active.png "Button Active")
 ```HTML
 <button class="btn btn-default active">Active/Selected</button>
@@ -26,7 +25,7 @@ Default buttons indicate secondary actions to the user. Default button actions a
 <p><br/><br/><br/><br/></p>
 
 ## Button Primary
----
+<a id="button-primary"></a>
 Buttons that can indicate positive, forward-moving actions such as Next and Save.
 
 ![alt text](../images/btn-primary.png "Button Primary")
@@ -35,14 +34,12 @@ Buttons that can indicate positive, forward-moving actions such as Next and Save
 ```
 
 #### Success
----
 ![alt text](../images/btn-success.png "Button Success")
 ```HTML
 <button class="btn btn-success">Button</button>
 ```
 
 #### Success Subdued
----
 ![alt text](../images/btn-success-subdued.png "Button Success Subdued")
 ```HTML
 <button class="btn btn-success-subdued">Button</button>
@@ -52,7 +49,7 @@ Buttons that can indicate positive, forward-moving actions such as Next and Save
 
 
 ## Button Destructive
----
+<a id="button-destructive"></a>
 Buttons that can indicate negative, or destructive actions such as Remove and Delete.
 
 ![alt text](../images/btn-destructive.png "Button Destructive")
@@ -61,14 +58,12 @@ Buttons that can indicate negative, or destructive actions such as Remove and De
 ```
 
 #### Destructive Subdued
----
 ![alt text](../images/btn-destructive-subdued.png "Button Destructive Subdued")
 ```HTML
 <button class="btn btn-destructive-subdued">Button</button>
 ```
 
 #### Button Warning
----
 ![alt text](../images/btn-warning.png "Button Warning")
 ```HTML
 <button class="btn btn-warning">Button</button>
@@ -77,7 +72,7 @@ Buttons that can indicate negative, or destructive actions such as Remove and De
 <p><br/><br/><br/><br/></p>
 
 ## Icon Button
----
+<a id="icon-button"></a>
 Icon buttons with commonly-used, recognizable icons. Include a tooltip on hover to describe the icon button’s action.
 
 Icon buttons can be styled with or without borders.
@@ -88,21 +83,18 @@ Icon buttons can be styled with or without borders.
 ```
 
 #### Icon Only
----
 ![alt text](../images/btn-icon.png "Button Icon")
 ```HTML
 <button class="btn btn-default icon-tree"></button>
 ```
 
 #### Icon Active/Selected
----
 ![alt text](../images/btn-icon-active.png "Button Icon Active")
 ```HTML
 <button class="btn btn-default icon-tree active"></button>
 ```
 
 #### Icon without Border
----
 ![alt text](../images/btn-icon-noborder.png "Button Icon without Border")
 ```HTML
 <button class="btn btn-default icon-paperclip"></button>
@@ -111,7 +103,7 @@ Icon buttons can be styled with or without borders.
 <p><br/><br/><br/><br/></p>
 
 ### Widget Button
----
+<a id="widget-button"></a>
 Expanding beyond the basics, using the `sn-widget sn-widget-button sn-widget-button_row` classes can provide more design and style to a button.
 
 ![alt text](../images/btn-widget.png "Button Widget")

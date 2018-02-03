@@ -13,7 +13,7 @@ There are two types of select elements:
 <p><br/><br/><br/><br/></p>
 
 ## Select
----
+<a id="select"></a>
 Select works for relatively small lists of options that the user can easily scroll and look through.
 
 ![alt text](../images/select.png "Select")
@@ -86,7 +86,7 @@ Select works for relatively small lists of options that the user can easily scro
 <p><br/><br/><br/><br/></p>
 
 ## Select with Search
----
+<a id="select-with-search"></a>
 Select with search allows users to quickly browse a long list of choices.
 
 ![alt text](../images/select-search.png "Select with Search")

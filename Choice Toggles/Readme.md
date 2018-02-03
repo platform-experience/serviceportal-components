@@ -8,7 +8,7 @@ Checkboxes, Radio buttons, and Switches provide the user with the ability to mak
 
 
 ## Checkboxes
----
+<a id="checkboxes"></a>
 Use checkboxes when presenting the user with a list of one or more options. Checkboxes allow the user to select nothing, one, or multiple options from a list of one or more options.
 ```HTML
 <div class="form-group">
@@ -31,14 +31,14 @@ Use checkboxes when presenting the user with a list of one or more options. Chec
 <p><br/><br/><br/><br/></p>
 
 ## Radio Buttons
----
+<a id="radio-buttons"></a>
 Use radio buttons when presenting the user with a list of two or more options, but only one possible selection. Clicking an unselected radio button will deselect any previously selected button. Radio buttons allow the user to select only one option from a list of two or more options.
 ```HTML
 <div class="form-group">
   <span class="input-group-radio">
     <input id="radioS" class="radio" type="radio" name="radioS">
     <label for="radioS" class="radio-label">Radio Label</label>
-  </span> 
+  </span>
 </div>
 ```
 ![alt text](../images/radio.png "Radio")
@@ -54,7 +54,7 @@ Use radio buttons when presenting the user with a list of two or more options, b
 <p><br/><br/><br/><br/></p>
 
 ## Switches
----
+<a id="switches"></a>
 Use switches for a single option that the user can toggle on or off. Switches can turn child features in a hierarchy on or off.  Switches allow the user to toggle an option on or off. Use switches to represent boolean options, such as on/off and show/hide.
 ```HTML
 <div class="form-group">
